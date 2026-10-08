@@ -1,0 +1,6 @@
+mc/build/
+mc/.gradle/
+mc/run/
+f4se/build/
+f4se/third_party/
+*.zip
